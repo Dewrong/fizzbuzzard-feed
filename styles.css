@@ -1,0 +1,19 @@
+body {
+  font-size: 25px;
+  color: black;
+  display: flex;
+}
+
+.article-title {
+  margin-bottom: auto;
+}
+
+.author {
+  margin: auto;
+  font-size: 0.8em;
+}
+
+.subheader {
+  margin: auto;
+  font-size: 1em;
+}
