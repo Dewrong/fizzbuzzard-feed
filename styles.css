@@ -1,19 +1,28 @@
+* {
+  margin: 1pc;
+}
+
 body {
-  font-size: 25px;
   color: black;
+}
+
+.total {
   display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 1.5em;
 }
 
 .article-title {
-  margin-bottom: auto;
+  font-size: 1.3em;
 }
 
 .author {
-  margin: auto;
   font-size: 0.8em;
 }
 
 .subheader {
-  margin: auto;
-  font-size: 1em;
+  font-size: 1.1em;
 }
