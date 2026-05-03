@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-img {
+.icon {
   width: 1em;
   margin: 0;
   filter: invert(100%);
